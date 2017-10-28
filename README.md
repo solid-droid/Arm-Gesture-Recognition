@@ -1,6 +1,7 @@
-# Arm-Gesture-Recognition for Prosthetic Hand
+# Arm Gesture Recognition for Prosthetic Hand
 Arm gesture recognition using arduino and MPU6050.
-The 4 motors are used for outputting the responses on the prosthetic fingers.
+The 4 motors are used for outputting the responses on the prosthetic fingers.  
+The Motors use L293D as the driver ic.
 # Working
 step 1: Fix the setup (at least the gyro) on your hand.    
 Step 2: Input the 3 digit sequence by arm gestures.  
