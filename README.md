@@ -10,4 +10,4 @@ step 5: The micro controller  checks for a responce in the responce database.
 step 6: If found true the responce function will be called.    
 # Error Protection
 1. The 4 gesture(3 digits and a random one)  should be entered in under 5 seconds(can be modified)  
-2. The 3 gesture sequence should have 3 different gestures to be accepted(can be modified)  
+2. The 3 gesture sequence should have 3 different gestures to be accepted(can be modified)  ..
